@@ -1,0 +1,9 @@
+127.0.0.1 - - [03/Mar/2024:23:20:28 +0530] "GET /cargocpc/index.html HTTP/1.1" 200 124
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:49 +0530] "GET / HTTP/1.1" 200 1297
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:49 +0530] "GET /css/gtvg.css;jsessionid=8BDC17C300BABF4BE3A6C08F480EC975 HTTP/1.1" 200 1154
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:49 +0530] "GET /images/gtvglogo.png;jsessionid=8BDC17C300BABF4BE3A6C08F480EC975 HTTP/1.1" 200 16603
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:49 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:52 +0530] "GET /product/list;jsessionid=8BDC17C300BABF4BE3A6C08F480EC975 HTTP/1.1" 200 7044
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:52 +0530] "GET /css/gtvg.css HTTP/1.1" 200 1154
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:20:56 +0530] "GET /product/comments?prodId=2 HTTP/1.1" 200 652
+0:0:0:0:0:0:0:1 - - [03/Mar/2024:23:21:03 +0530] "GET /product/list HTTP/1.1" 200 7044
